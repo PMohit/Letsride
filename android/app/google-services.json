@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1097558292130",
+    "firebase_url": "https://letsride-55ecd.firebaseio.com",
+    "project_id": "letsride-55ecd",
+    "storage_bucket": "letsride-55ecd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097558292130:android:f1a0ddf45fc8355c3189fb",
+        "android_client_info": {
+          "package_name": "com.example.letsride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097558292130-fi9u6ms07nv94vhn2uq4dl63f0ie09ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_OXrMTmjgYKWNq0HSGn6VdcGM8wKfnu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097558292130-fi9u6ms07nv94vhn2uq4dl63f0ie09ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
